@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/bin/Debug/net8.0/5_CaracteresETexto
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/bin/Debug/net8.0/5_CaracteresETexto.deps.json
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/bin/Debug/net8.0/5_CaracteresETexto.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/bin/Debug/net8.0/5_CaracteresETexto.dll
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/bin/Debug/net8.0/5_CaracteresETexto.pdb
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.sourcelink.json
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.dll
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/refint/5_CaracteresETexto.dll
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.pdb
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/5_CaracteresETexto.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/Debug/net8.0/ref/5_CaracteresETexto.dll

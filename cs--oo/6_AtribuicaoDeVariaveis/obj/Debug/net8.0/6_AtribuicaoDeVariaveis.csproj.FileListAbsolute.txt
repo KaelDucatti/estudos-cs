@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/bin/Debug/net8.0/6_AtribuicaoDeVariaveis
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/bin/Debug/net8.0/6_AtribuicaoDeVariaveis.deps.json
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/bin/Debug/net8.0/6_AtribuicaoDeVariaveis.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/bin/Debug/net8.0/6_AtribuicaoDeVariaveis.dll
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/bin/Debug/net8.0/6_AtribuicaoDeVariaveis.pdb
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.sourcelink.json
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.dll
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/refint/6_AtribuicaoDeVariaveis.dll
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.pdb
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/6_AtribuicaoDeVariaveis.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/Debug/net8.0/ref/6_AtribuicaoDeVariaveis.dll
