@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/bin/Debug/net8.0/8_Condicionais_2
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/bin/Debug/net8.0/8_Condicionais_2.deps.json
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/bin/Debug/net8.0/8_Condicionais_2.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/bin/Debug/net8.0/8_Condicionais_2.dll
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/bin/Debug/net8.0/8_Condicionais_2.pdb
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.sourcelink.json
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.dll
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/refint/8_Condicionais_2.dll
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.pdb
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/8_Condicionais_2.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/Debug/net8.0/ref/8_Condicionais_2.dll

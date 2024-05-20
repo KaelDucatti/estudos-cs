@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.sourcelink.json
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/bin/Debug/net8.0/10_Ex_AliquotaComIfs
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/bin/Debug/net8.0/10_Ex_AliquotaComIfs.deps.json
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/bin/Debug/net8.0/10_Ex_AliquotaComIfs.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/bin/Debug/net8.0/10_Ex_AliquotaComIfs.dll
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/bin/Debug/net8.0/10_Ex_AliquotaComIfs.pdb
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.dll
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/refint/10_Ex_AliquotaComIfs.dll
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.pdb
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/10_Ex_AliquotaComIfs.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/Debug/net8.0/ref/10_Ex_AliquotaComIfs.dll

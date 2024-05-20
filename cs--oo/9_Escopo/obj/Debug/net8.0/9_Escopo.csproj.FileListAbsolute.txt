@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/bin/Debug/net8.0/9_Escopo
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/bin/Debug/net8.0/9_Escopo.deps.json
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/bin/Debug/net8.0/9_Escopo.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/bin/Debug/net8.0/9_Escopo.dll
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/bin/Debug/net8.0/9_Escopo.pdb
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.sourcelink.json
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.dll
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/refint/9_Escopo.dll
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.pdb
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/9_Escopo.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/Debug/net8.0/ref/9_Escopo.dll
