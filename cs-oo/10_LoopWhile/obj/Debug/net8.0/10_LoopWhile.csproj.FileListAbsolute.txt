@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.sourcelink.json
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/bin/Debug/net8.0/10_LoopWhile
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/bin/Debug/net8.0/10_LoopWhile.deps.json
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/bin/Debug/net8.0/10_LoopWhile.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/bin/Debug/net8.0/10_LoopWhile.dll
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/bin/Debug/net8.0/10_LoopWhile.pdb
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.dll
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/refint/10_LoopWhile.dll
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.pdb
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/10_LoopWhile.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs-oo/10_LoopWhile/obj/Debug/net8.0/ref/10_LoopWhile.dll

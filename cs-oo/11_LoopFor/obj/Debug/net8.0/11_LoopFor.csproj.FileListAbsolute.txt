@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/bin/Debug/net8.0/11_LoopFor
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/bin/Debug/net8.0/11_LoopFor.deps.json
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/bin/Debug/net8.0/11_LoopFor.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/bin/Debug/net8.0/11_LoopFor.dll
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/bin/Debug/net8.0/11_LoopFor.pdb
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.sourcelink.json
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.dll
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/refint/11_LoopFor.dll
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.pdb
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/11_LoopFor.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs-oo/11_LoopFor/obj/Debug/net8.0/ref/11_LoopFor.dll

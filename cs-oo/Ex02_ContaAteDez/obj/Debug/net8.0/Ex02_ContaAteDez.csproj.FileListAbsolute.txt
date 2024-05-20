@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/bin/Debug/net8.0/Ex02_ContaAteDez
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/bin/Debug/net8.0/Ex02_ContaAteDez.deps.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/bin/Debug/net8.0/Ex02_ContaAteDez.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/bin/Debug/net8.0/Ex02_ContaAteDez.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/bin/Debug/net8.0/Ex02_ContaAteDez.pdb
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.sourcelink.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/refint/Ex02_ContaAteDez.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.pdb
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/Ex02_ContaAteDez.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex02_ContaAteDez/obj/Debug/net8.0/ref/Ex02_ContaAteDez.dll
