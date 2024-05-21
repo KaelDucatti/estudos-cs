@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kael/cursos/estudos-cs/cs--oo/7_Condicionais/7_Condicionais.csproj": {}
+    "/home/kael/cursos/estudos-cs/cs-oo/07_Condicionais/7_Condicionais.csproj": {}
   },
   "projects": {
-    "/home/kael/cursos/estudos-cs/cs--oo/7_Condicionais/7_Condicionais.csproj": {
+    "/home/kael/cursos/estudos-cs/cs-oo/07_Condicionais/7_Condicionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs--oo/7_Condicionais/7_Condicionais.csproj",
+        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs-oo/07_Condicionais/7_Condicionais.csproj",
         "projectName": "7_Condicionais",
-        "projectPath": "/home/kael/cursos/estudos-cs/cs--oo/7_Condicionais/7_Condicionais.csproj",
+        "projectPath": "/home/kael/cursos/estudos-cs/cs-oo/07_Condicionais/7_Condicionais.csproj",
         "packagesPath": "/home/kael/.nuget/packages/",
-        "outputPath": "/home/kael/cursos/estudos-cs/cs--oo/7_Condicionais/obj/",
+        "outputPath": "/home/kael/cursos/estudos-cs/cs-oo/07_Condicionais/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kael/.nuget/NuGet/NuGet.Config"

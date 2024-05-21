@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _7_Condicionais
-build_property.ProjectDir = /home/kael/cursos/estudos-cs/cs--oo/7_Condicionais/
+build_property.ProjectDir = /home/kael/cursos/estudos-cs/cs-oo/07_Condicionais/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

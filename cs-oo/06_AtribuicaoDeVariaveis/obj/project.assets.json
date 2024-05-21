@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/6_AtribuicaoDeVariaveis.csproj",
+      "projectUniqueName": "/home/kael/cursos/estudos-cs/cs-oo/06_AtribuicaoDeVariaveis/6_AtribuicaoDeVariaveis.csproj",
       "projectName": "6_AtribuicaoDeVariaveis",
-      "projectPath": "/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/6_AtribuicaoDeVariaveis.csproj",
+      "projectPath": "/home/kael/cursos/estudos-cs/cs-oo/06_AtribuicaoDeVariaveis/6_AtribuicaoDeVariaveis.csproj",
       "packagesPath": "/home/kael/.nuget/packages/",
-      "outputPath": "/home/kael/cursos/estudos-cs/cs--oo/6_AtribuicaoDeVariaveis/obj/",
+      "outputPath": "/home/kael/cursos/estudos-cs/cs-oo/06_AtribuicaoDeVariaveis/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kael/.nuget/NuGet/NuGet.Config"

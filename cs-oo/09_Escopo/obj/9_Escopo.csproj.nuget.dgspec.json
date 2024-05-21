@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/9_Escopo.csproj": {}
+    "/home/kael/cursos/estudos-cs/cs-oo/09_Escopo/9_Escopo.csproj": {}
   },
   "projects": {
-    "/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/9_Escopo.csproj": {
+    "/home/kael/cursos/estudos-cs/cs-oo/09_Escopo/9_Escopo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/9_Escopo.csproj",
+        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs-oo/09_Escopo/9_Escopo.csproj",
         "projectName": "9_Escopo",
-        "projectPath": "/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/9_Escopo.csproj",
+        "projectPath": "/home/kael/cursos/estudos-cs/cs-oo/09_Escopo/9_Escopo.csproj",
         "packagesPath": "/home/kael/.nuget/packages/",
-        "outputPath": "/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/obj/",
+        "outputPath": "/home/kael/cursos/estudos-cs/cs-oo/09_Escopo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kael/.nuget/NuGet/NuGet.Config"

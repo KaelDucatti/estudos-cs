@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj": {}
+    "/home/kael/cursos/estudos-cs/cs-oo/Ex01_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj": {}
   },
   "projects": {
-    "/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj": {
+    "/home/kael/cursos/estudos-cs/cs-oo/Ex01_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj",
+        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs-oo/Ex01_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj",
         "projectName": "10_Ex_AliquotaComIfs",
-        "projectPath": "/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj",
+        "projectPath": "/home/kael/cursos/estudos-cs/cs-oo/Ex01_AliquotaComIfs/10_Ex_AliquotaComIfs.csproj",
         "packagesPath": "/home/kael/.nuget/packages/",
-        "outputPath": "/home/kael/cursos/estudos-cs/cs--oo/10_Ex_AliquotaComIfs/obj/",
+        "outputPath": "/home/kael/cursos/estudos-cs/cs-oo/Ex01_AliquotaComIfs/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kael/.nuget/NuGet/NuGet.Config"

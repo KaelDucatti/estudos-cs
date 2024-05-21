@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tso/zbQXjYxaSxMFaF1m4TZ+ju3rBB+v8fath6TUQtlWveJrk/8gj036BrqRnoVwOumhY9PxvKSYIUK3ugMsQA==",
+  "dgSpecHash": "fBl2tTTVNCURz3U9AW6lHHFF3MiQ3u9DoJWiG5y999bphpJPU10IDuR0Hs8jNMiB1NQNeIspLrqnPeijSSQntw==",
   "success": true,
-  "projectFilePath": "/home/kael/cursos/estudos-cs/cs--oo/9_Escopo/9_Escopo.csproj",
+  "projectFilePath": "/home/kael/cursos/estudos-cs/cs-oo/09_Escopo/9_Escopo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

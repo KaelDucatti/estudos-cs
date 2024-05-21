@@ -7,11 +7,16 @@ class Program
     {
         Console.WriteLine("Executando Projeto 11 - Laço for");
 
-        for (int i = 1; i <= 10; i++)
-        {
-            Console.WriteLine(i);
-        }
+        double valorInvestido = 1000;
 
+        for (int mes = 1; mes <= 12; mes++)
+        {
+            valorInvestido *= 1.0036;
+            Console.WriteLine(
+                "Após " + mes +
+                " meses, você terá " + valorInvestido);
+        }
+        
         Console.ReadLine();
     }
 }

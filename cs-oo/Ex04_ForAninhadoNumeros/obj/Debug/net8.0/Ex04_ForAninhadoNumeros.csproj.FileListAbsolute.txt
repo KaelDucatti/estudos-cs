@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/bin/Debug/net8.0/Ex04_ForAninhadoNumeros
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/bin/Debug/net8.0/Ex04_ForAninhadoNumeros.deps.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/bin/Debug/net8.0/Ex04_ForAninhadoNumeros.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/bin/Debug/net8.0/Ex04_ForAninhadoNumeros.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/bin/Debug/net8.0/Ex04_ForAninhadoNumeros.pdb
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.sourcelink.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/refint/Ex04_ForAninhadoNumeros.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.pdb
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/Ex04_ForAninhadoNumeros.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex04_ForAninhadoNumeros/obj/Debug/net8.0/ref/Ex04_ForAninhadoNumeros.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/5_CaracteresETexto.csproj": {}
+    "/home/kael/cursos/estudos-cs/cs-oo/05_CaracteresETexto/5_CaracteresETexto.csproj": {}
   },
   "projects": {
-    "/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/5_CaracteresETexto.csproj": {
+    "/home/kael/cursos/estudos-cs/cs-oo/05_CaracteresETexto/5_CaracteresETexto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/5_CaracteresETexto.csproj",
+        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs-oo/05_CaracteresETexto/5_CaracteresETexto.csproj",
         "projectName": "5_CaracteresETexto",
-        "projectPath": "/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/5_CaracteresETexto.csproj",
+        "projectPath": "/home/kael/cursos/estudos-cs/cs-oo/05_CaracteresETexto/5_CaracteresETexto.csproj",
         "packagesPath": "/home/kael/.nuget/packages/",
-        "outputPath": "/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/obj/",
+        "outputPath": "/home/kael/cursos/estudos-cs/cs-oo/05_CaracteresETexto/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kael/.nuget/NuGet/NuGet.Config"

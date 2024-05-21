@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/bin/Debug/net8.0/Ex03_AteDezComFor
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/bin/Debug/net8.0/Ex03_AteDezComFor.deps.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/bin/Debug/net8.0/Ex03_AteDezComFor.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/bin/Debug/net8.0/Ex03_AteDezComFor.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/bin/Debug/net8.0/Ex03_AteDezComFor.pdb
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.sourcelink.json
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/refint/Ex03_AteDezComFor.dll
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.pdb
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/Ex03_AteDezComFor.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs-oo/Ex03_AteDezComFor/obj/Debug/net8.0/ref/Ex03_AteDezComFor.dll

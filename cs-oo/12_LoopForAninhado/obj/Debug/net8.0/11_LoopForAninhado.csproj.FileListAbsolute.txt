@@ -1,0 +1,15 @@
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/bin/Debug/net8.0/11_LoopForAninhado
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/bin/Debug/net8.0/11_LoopForAninhado.deps.json
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/bin/Debug/net8.0/11_LoopForAninhado.runtimeconfig.json
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/bin/Debug/net8.0/11_LoopForAninhado.dll
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/bin/Debug/net8.0/11_LoopForAninhado.pdb
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.GeneratedMSBuildEditorConfig.editorconfig
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.AssemblyInfoInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.AssemblyInfo.cs
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.csproj.CoreCompileInputs.cache
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.sourcelink.json
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.dll
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/refint/11_LoopForAninhado.dll
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.pdb
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/11_LoopForAninhado.genruntimeconfig.cache
+/home/kael/cursos/estudos-cs/cs-oo/12_LoopForAninhado/obj/Debug/net8.0/ref/11_LoopForAninhado.dll

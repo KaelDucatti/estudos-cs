@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/8_Condicionais_2.csproj": {}
+    "/home/kael/cursos/estudos-cs/cs-oo/08_Condicionais_2/8_Condicionais_2.csproj": {}
   },
   "projects": {
-    "/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/8_Condicionais_2.csproj": {
+    "/home/kael/cursos/estudos-cs/cs-oo/08_Condicionais_2/8_Condicionais_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/8_Condicionais_2.csproj",
+        "projectUniqueName": "/home/kael/cursos/estudos-cs/cs-oo/08_Condicionais_2/8_Condicionais_2.csproj",
         "projectName": "8_Condicionais_2",
-        "projectPath": "/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/8_Condicionais_2.csproj",
+        "projectPath": "/home/kael/cursos/estudos-cs/cs-oo/08_Condicionais_2/8_Condicionais_2.csproj",
         "packagesPath": "/home/kael/.nuget/packages/",
-        "outputPath": "/home/kael/cursos/estudos-cs/cs--oo/8_Condicionais_2/obj/",
+        "outputPath": "/home/kael/cursos/estudos-cs/cs-oo/08_Condicionais_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kael/.nuget/NuGet/NuGet.Config"

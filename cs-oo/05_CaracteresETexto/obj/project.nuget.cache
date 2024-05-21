@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RuE24ZSVXYC4uDH/tdm7B2Mrhtm2g5SSjbtHRMtDH5XSCnuX4VxWeImiv/uO/VMGWfMNKVivLC+1IRzwk0THoQ==",
+  "dgSpecHash": "ebKAnU/cQwrJQrtBOOH3c4nWJH+8pzVgypSuF5GA9R8O121AmRQKA6BoIZABVwTZ3lQn1EuuxAPYU6idAyidzw==",
   "success": true,
-  "projectFilePath": "/home/kael/cursos/estudos-cs/cs--oo/5_CaracteresETexto/5_CaracteresETexto.csproj",
+  "projectFilePath": "/home/kael/cursos/estudos-cs/cs-oo/05_CaracteresETexto/5_CaracteresETexto.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
